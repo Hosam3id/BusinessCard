@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Hossam Eid</string>
+    <string name="position">Java Developer</string>
+    <string name="telegram_profile">\@HE_EX1</string>
+    <string name="phone_number">+79966068503</string>
+    <string name="github_profile">\@Hosam3id</string>
+</resources>
